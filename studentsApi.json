@@ -1,0 +1,205 @@
+{
+    "status": "success",
+    "data": [
+      {
+        "studentID" : "001",
+        "studentFirstName" : "Ibraheem",
+        "studentLastName" : "Shawhnee",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654320"
+      },
+      {
+        "studentID" : "002",
+        "studentFirstName" : "Ahmad",
+        "studentLastName" : "Khaled",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654321"
+      },
+      {
+        "studentID" : "003",
+        "studentFirstName" : "Rami",
+        "studentLastName" : "Amori",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654322"
+      },
+      {
+        "studentID" : "004",
+        "studentFirstName" : "Khaled",
+        "studentLastName" : "Jamal",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654323"
+      },
+      {
+        "studentID" : "005",
+        "studentFirstName" : "Jameel",
+        "studentLastName" : "Yahya",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654324"
+      },
+      {
+        "studentID" : "006",
+        "studentFirstName" : "Lana",
+        "studentLastName" : "Ibraheem",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654325"
+      },
+      {
+        "studentID" : "007",
+        "studentFirstName" : "Mohanad",
+        "studentLastName" : "Ahmad",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654326"
+      },
+      {
+        "studentID" : "008",
+        "studentFirstName" : "Hanan",
+        "studentLastName" : "Sulaiman",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654327"
+      },
+      {
+        "studentID" : "009",
+        "studentFirstName" : "Noman",
+        "studentLastName" : "Bader",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654328"
+      },
+      {
+        "studentID" : "010",
+        "studentFirstName" : "Loay",
+        "studentLastName" : "Mohammad",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654329"
+      },
+      {
+        "studentID" : "011",
+        "studentFirstName" : "Mohammad",
+        "studentLastName" : "Yahya",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654330"
+      },
+      {
+        "studentID" : "012",
+        "studentFirstName" : "Iyad",
+        "studentLastName" : "Rami",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654331"
+      },
+      {
+        "studentID" : "013",
+        "studentFirstName" : "Eyas",
+        "studentLastName" : "Gorge",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654332"
+      },
+      {
+        "studentID" : "014",
+        "studentFirstName" : "Sami",
+        "studentLastName" : "Ahmed",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654333"
+      },
+      {
+        "studentID" : "015",
+        "studentFirstName" : "Jood",
+        "studentLastName" : "Yaser",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654334"
+      },
+      {
+        "studentID" : "016",
+        "studentFirstName" : "Abdalrhman",
+        "studentLastName" : "Ibraheem",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654335"
+      },
+      {
+        "studentID" : "017",
+        "studentFirstName" : "Samia",
+        "studentLastName" : "Fathi",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654336"
+      },
+      {
+        "studentID" : "018",
+        "studentFirstName" : "Aya",
+        "studentLastName" : "Bahaa",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654337"
+      },
+      {
+        "studentID" : "019",
+        "studentFirstName" : "Jehad",
+        "studentLastName" : "Mohammad",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654338"
+      },
+      {
+        "studentID" : "020",
+        "studentFirstName" : "Taqwa",
+        "studentLastName" : "Afef",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654339"
+      },
+      {
+        "studentID" : "021",
+        "studentFirstName" : "Yousef",
+        "studentLastName" : "John",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654340"
+      },
+      {
+        "studentID" : "022",
+        "studentFirstName" : "Bahaa",
+        "studentLastName" : "Jameel",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654341"
+      },
+      {
+        "studentID" : "023",
+        "studentFirstName" : "Manssor",
+        "studentLastName" : "Khaled",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654342"
+      },
+      {
+        "studentID" : "024",
+        "studentFirstName" : "Hamdi",
+        "studentLastName" : "Awwad",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654343"
+      },
+      {
+        "studentID" : "025",
+        "studentFirstName" : "Solaf",
+        "studentLastName" : "Fadi",
+        "studentSpecialization" : "CE",
+        "studentAge" : "21",
+        "studentPhoneNumber" : "987654344"
+      }
+    ]
+  }
